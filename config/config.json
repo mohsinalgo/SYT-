@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345678",
+    "database": "ans-proj",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "bfd18fb2b227ed",
+    "password": "a1033099",
+    "database": "heroku_feb079c83e8dae0",
+    "host": "eu-cdbr-west-03.cleardb.net",
+    "dialect": "mysql"
+  }
+}
